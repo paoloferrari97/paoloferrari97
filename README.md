@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paolo</h1>
 <h3 align="center">I'm a Junior Full Stack Web Developer</h3>
 
+<p align="center">I have always been a fan of technology and the web. I love programming and writing code, even experimenting with new technologies.</p>
+
 - 📫 How to reach me **paolo.ferrari.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
